@@ -1,2 +1,3 @@
-print("GitHub authentication now works!")
 
+print("GitHub authentication now works!")
+print("... really!?")
